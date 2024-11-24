@@ -1,11 +1,11 @@
 # Fortnite External Menu
 
 <p align="left">
-    <img src="/assets/fanvieces.webp" />
+    <img src="/assets/preview1.png" />
 </p>
 
 <p align="left">
-    <img src="/assets/quocromun.webp" />
+    <img src="/assets/preview2.png" />
 </p>
 
 ## Download

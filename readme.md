@@ -1,11 +1,11 @@
 # Fortnite External Menu
 
 <p align="left">
-    <img src="/assets/prewiev1.png" />
+    <img src="/assets/preview1.jpg" />
 </p>
 
 <p align="left">
-    <img src="/assets/prewiev2.png" />
+    <img src="/assets/preview2.jpg" />
 </p>
 
 ## Download
